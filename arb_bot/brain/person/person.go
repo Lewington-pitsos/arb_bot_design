@@ -1,4 +1,4 @@
-package data
+package person
 
 type Person struct {
 	winnings int               // total tally of money won or lost by that person

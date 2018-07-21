@@ -1,4 +1,4 @@
-package data
+package scrapedata
 
 type assignment struct {
 	name     string // name of the field whose data we've been assigned to get

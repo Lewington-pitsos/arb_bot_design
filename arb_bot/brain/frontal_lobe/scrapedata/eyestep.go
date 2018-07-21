@@ -1,4 +1,4 @@
-package frontal_lobe
+package scrapedata
 
 type eyeStep struct {
 	url         string // a fully qualified url

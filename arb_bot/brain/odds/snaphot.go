@@ -1,4 +1,4 @@
-package data
+package scrapedata
 
 type snapshot struct {
 	state map[string]map[string]map[string]odd

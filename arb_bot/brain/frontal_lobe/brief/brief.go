@@ -1,4 +1,4 @@
-package frontal_lobe
+package brief
 
 type brief struct {
 	Success: bool // indivates whether the scrape or step in question was successful

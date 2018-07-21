@@ -1,4 +1,4 @@
-package frontal_lobe
+package brief
 
 type report struct {
 	url  string // name of the field whose data we've been assigned to get

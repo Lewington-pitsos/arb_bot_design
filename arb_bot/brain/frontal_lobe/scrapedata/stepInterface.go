@@ -1,4 +1,4 @@
-package data
+package scrapedata
 
 type stepInterface interface {
 	Url() string

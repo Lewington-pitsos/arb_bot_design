@@ -1,4 +1,4 @@
-package brain
+package odds
 
 type odd struct {
 	value float32
