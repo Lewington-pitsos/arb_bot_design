@@ -1,4 +1,4 @@
-package brain
+package data
 
 type assignment struct {
 	name     string // name of the field whose data we've been assigned to get
@@ -6,6 +6,6 @@ type assignment struct {
 }
 
 // generateReport returns a report form the selector and passed in xml
-func (a *assignment) generateReport( /*Xpath object*/ ) {
+func (a *assignment) GenerateReport( /*Xpath object*/ ) {
 
 }
