@@ -1,7 +1,7 @@
 package brain
 
 type snapshot struct {
-	state map[string]map[string]map[string]int
+	state map[string]map[string]map[string]odd
 	// event => outcome => oddProvider => odd
 	// liverpool vs arsenal 02/03/2019 => win => ladbrokes => 3.24
 }
