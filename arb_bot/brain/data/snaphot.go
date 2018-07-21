@@ -1,4 +1,4 @@
-package brain
+package data
 
 type snapshot struct {
 	state map[string]map[string]map[string]odd
