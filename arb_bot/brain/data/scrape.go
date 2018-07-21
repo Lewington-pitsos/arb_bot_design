@@ -1,5 +1,5 @@
-package frontal_lobe
+package data
 
 type scrape struct {
-	stepGenerators []function(brief) // slice of functions that each take a brief and return a step
+	steps []stepInterface // all the steps that must be performed as part of this scrape
 }
